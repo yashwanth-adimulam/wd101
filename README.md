@@ -1,6 +1,6 @@
 # wd101 - Simple Registration Form
 
-Welcome to the wd101 repository! This project showcases a simple registration form developed as part of a cohort at pupilfirst.org.
+Welcome to the wd101 repository! This project showcases a simple registration form developed as part of a cohort at [pupilfirst.org](https://www.pupilfirst.org/).
 
 ## Features
 This registration form includes the following functionalities:
